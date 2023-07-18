@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Selçuk Efe Özbilgi</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=selcukozbilgi&label=Profile%20views&color=0e75b6&style=flat-square" alt="selcukozbilgi" /> </p>
-
 - 🌱 I’m currently learning **Javascript**
 
 - 💬 Ask me about **FrontEnd , BackEnd , Mobile Apps , Desktop Apps , Machine Learning**
