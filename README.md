@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Selçuk Efe Özbilgi</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=selcukozbilgi&label=Profile%20views&color=0e75b6&style=flat-square" alt="selcukozbilgi" /> </p>
+
 - 🌱 I’m currently learning **Javascript**
 
 - 💬 Ask me about **FrontEnd , BackEnd , Mobile Apps , Desktop Apps , Machine Learning**
@@ -20,8 +22,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/selcukefeozbilgi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="selcukefeozbilgi" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selcukozbilgi&show_icons=true&text_color=ffffff&locale=en&layout=compact" alt="selcukozbilgi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=selcukozbilgi&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=006af5&hide_border=true&locale=en" alt="selcukozbilgi" /></p>
 
