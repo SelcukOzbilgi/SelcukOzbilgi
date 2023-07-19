@@ -33,3 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=selcukozbilgi&show_icons=true&theme=radical&title_color=ffffff&text_color=ffffff&bg_color=006af5&hide_border=true&locale=en" alt="selcukozbilgi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=selcukozbilgi&" alt="selcukozbilgi" /></p>
+
+![snakegame](https://github.com/SelcukOzbilgi/SelcukOzbilgi/assets/139876996/141e61e1-3f5a-4097-a4b5-45bd9a5e43e8)
