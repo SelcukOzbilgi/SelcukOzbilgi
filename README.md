@@ -34,4 +34,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=selcukozbilgi&" alt="selcukozbilgi" /></p>
 
+![lazer](https://github.com/SelcukOzbilgi/SelcukOzbilgi/assets/139876996/447e5534-6e7b-42f1-9d32-9d25c08b89a3)
+
 ![github-contribution-grid-snake-dark](https://github.com/SelcukOzbilgi/SelcukOzbilgi/assets/139876996/d08c725e-d0e7-4b13-890e-387c82b97eaf)
