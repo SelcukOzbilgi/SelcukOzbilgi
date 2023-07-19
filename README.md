@@ -37,3 +37,6 @@
 ![lazer](https://github.com/SelcukOzbilgi/SelcukOzbilgi/assets/139876996/447e5534-6e7b-42f1-9d32-9d25c08b89a3)
 
 ![github-contribution-grid-snake-dark](https://github.com/SelcukOzbilgi/SelcukOzbilgi/assets/139876996/d08c725e-d0e7-4b13-890e-387c82b97eaf)
+
+![trex oyunu](https://github.com/SelcukOzbilgi/SelcukOzbilgi/assets/139876996/7a6e1f89-1075-4deb-a0a9-f0c844beb019)
+
