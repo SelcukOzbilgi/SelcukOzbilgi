@@ -34,4 +34,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=selcukozbilgi&" alt="selcukozbilgi" /></p>
 
-![snakegame](https://github.com/SelcukOzbilgi/SelcukOzbilgi/assets/139876996/141e61e1-3f5a-4097-a4b5-45bd9a5e43e8)
+![github-contribution-grid-snake-dark](https://github.com/SelcukOzbilgi/SelcukOzbilgi/assets/139876996/d08c725e-d0e7-4b13-890e-387c82b97eaf)
