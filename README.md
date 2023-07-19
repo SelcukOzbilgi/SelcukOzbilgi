@@ -23,8 +23,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/selcukefeozbilgi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="selcukefeozbilgi" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selcukozbilgi&show_icons=true&theme=dark&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="selcukozbilgi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selcukozbilgi&show_icons=true&theme=radical&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="selcukozbilgi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=selcukozbilgi&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=006af5&hide_border=true&locale=en" alt="selcukozbilgi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=selcukozbilgi&show_icons=true&theme=radical&title_color=ffffff&text_color=ffffff&bg_color=006af5&hide_border=true&locale=en" alt="selcukozbilgi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=selcukozbilgi&" alt="selcukozbilgi" /></p>
