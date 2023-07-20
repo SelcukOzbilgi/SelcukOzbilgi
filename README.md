@@ -6,7 +6,7 @@
 
 ![lazer](https://github.com/SelcukOzbilgi/SelcukOzbilgi/assets/139876996/447e5534-6e7b-42f1-9d32-9d25c08b89a3)
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **csharp**
 
 - 💬 Ask me about **FrontEnd , BackEnd , Mobile Apps , Desktop Apps , Machine Learning**
 
