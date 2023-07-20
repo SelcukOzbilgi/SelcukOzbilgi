@@ -1,8 +1,9 @@
-
 <h1 align="center">Hi 👋, I'm Selçuk Efe Özbilgi</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selcukozbilgi&label=Profile%20views&color=0e75b6&style=flat-square" alt="selcukozbilgi" /> </p>
+
+![hello github](https://github.com/SelcukOzbilgi/SelcukOzbilgi/assets/139876996/f05b80a8-23fb-428d-a9b6-c126ce66d39c)
 
 ![lazer](https://github.com/SelcukOzbilgi/SelcukOzbilgi/assets/139876996/447e5534-6e7b-42f1-9d32-9d25c08b89a3)
 
