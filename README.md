@@ -14,7 +14,6 @@
 
 - ⚡ Fun fact **Building AI products in Istanbul while the rest of my class learns Hello World**
 
-- 👨‍💻 All of my projects are available at **[https://shuflow.com](https://shuflow.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
