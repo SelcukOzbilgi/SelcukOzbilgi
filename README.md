@@ -1,44 +1,40 @@
-<h1 align="center">Hi 👋, I'm Selçuk Efe Özbilgi</h1>
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
+# Hi 👋, I'm Selçuk Efe Özbilgi
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=selcukozbilgi&label=Profile%20views&color=0e75b6&style=flat-square" alt="selcukozbilgi" /> </p>
+### AI Builder & Solo Founder · 18 y/o from Istanbul
 
-![hello github](https://github.com/SelcukOzbilgi/SelcukOzbilgi/assets/139876996/f05b80a8-23fb-428d-a9b6-c126ce66d39c)
+- 🔭 I'm currently working on **Shuflow (AI automation agency) & CVFlow (AI-powered CV builder for Turkish job seekers)**
 
-![lazer](https://github.com/SelcukOzbilgi/SelcukOzbilgi/assets/139876996/447e5534-6e7b-42f1-9d32-9d25c08b89a3)
+- 🌱 I'm currently learning **Diving deeper into AI agent architecture and multi-agent workflows**
 
-- 🌱 I’m currently learning **Csharp**
+- 👯 I'm looking to collaborate on **Open source AI automation tools and agentic workflow systems**
 
-- 💬 Ask me about **FrontEnd , BackEnd , Mobile Apps , Desktop Apps , Machine Learning**
+- 💬 Ask me about **AI automation pipelines, full-stack SaaS development, Claude Code, MCP servers**
 
-- 📫 How to reach me **ozbilgiselcukefe254@gmail.com**
+- 📫 How to reach me **efe@getshuflow.com**
+
+- ⚡ Fun fact **Building AI products in Istanbul while the rest of my class learns Hello World**
+
+- 👨‍💻 All of my projects are available at **[https://shuflow.com](https://shuflow.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/selcukozbilgi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="selcukozbilgi" height="30" width="40" /></a>
-<a href="https://instagram.com/selcukefeozbilgi44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="selcukefeozbilgi44" height="30" width="40" /></a>
-<a href="https://www.behance.net/selcukefeozbilgi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="selcukefeozbilgi" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/luppux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/luppux" height="30" width="40" /></a>
+<a href="https://github.com/SelcukOzbilgi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SelcukOzbilgi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/selcukefeozbilgi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="selcukefeozbilgi" height="30" width="40" /></a>
+<a href="https://instagram.com/ozbilgi_selcukefe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ozbilgi_selcukefe" height="30" width="40" /></a>
+<a href="https://leetcode.com/selcukozbilgi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="selcukozbilgi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-</a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
 
-![lazer](https://github.com/SelcukOzbilgi/SelcukOzbilgi/assets/139876996/447e5534-6e7b-42f1-9d32-9d25c08b89a3)
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/selcukefeozbilgi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="selcukefeozbilgi" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selcukozbilgi&show_icons=true&theme=radical&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="selcukozbilgi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=selcukozbilgi&show_icons=true&theme=radical&title_color=ffffff&text_color=ffffff&bg_color=006af5&hide_border=true&locale=en" alt="selcukozbilgi" /></p>
+## 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=selcukozbilgi&" alt="selcukozbilgi" /></p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SelcukOzbilgi&theme=dark&hide_border=true)
 
-![lazer](https://github.com/SelcukOzbilgi/SelcukOzbilgi/assets/139876996/447e5534-6e7b-42f1-9d32-9d25c08b89a3)
 
-![github-contribution-grid-snake-dark](https://github.com/SelcukOzbilgi/SelcukOzbilgi/assets/139876996/d08c725e-d0e7-4b13-890e-387c82b97eaf)
+## ☕ Support
 
-![trex oyunu](https://github.com/SelcukOzbilgi/SelcukOzbilgi/assets/139876996/7a6e1f89-1075-4deb-a0a9-f0c844beb019)
-
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-selcukefe-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/selcukefe)
