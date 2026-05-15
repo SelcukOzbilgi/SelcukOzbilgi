@@ -35,6 +35,3 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SelcukOzbilgi&theme=dark&hide_border=true)
 
 
-## ☕ Support
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-selcukefe-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/selcukefe)
