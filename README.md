@@ -14,6 +14,11 @@
 
 - ⚡ Fun fact **Building AI products in Istanbul while the rest of my class learns Hello World**
 
+## 🗓️ Milestones
+
+- **Jul 18, 2023** — Started the journey
+- **Oct 13, 2026** — Crossed 1,000 total contributions 🚀
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
