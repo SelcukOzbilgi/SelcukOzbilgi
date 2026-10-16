@@ -1,6 +1,6 @@
 # Hi 👋, I'm Selçuk Efe Özbilgi
 
-### AI Builder & Solo Founder · 18 y/o from Istanbul
+### AI Builder & Solo Founder · 19 y/o from Istanbul
 
 - 🔭 I'm currently working on **Shuflow (AI automation agency) & CVFlow (AI-powered CV builder for Turkish job seekers)**
 
