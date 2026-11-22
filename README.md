@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **AI automation pipelines, full-stack SaaS development, Claude Code, MCP servers**
 
-- 📫 How to reach me **efe@getshuflow.com**
+- 📫 How to reach me ...
 
 - ⚡ Fun fact **Building AI products in Istanbul while the rest of my class learns Hello World**
 
